@@ -1,35 +1,79 @@
-# About me
-Welcome to my GitHub profile! I'm a software developer from Germany with a passion for web development. I love creating innovative solutions and contributing to the tech community. Oh, and I use Vim, by the way. 😉
+# Hi, I'm Oliver
 
-## 🔧 Technologies & Tools
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Css" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Cv2" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+I'm a software developer from Germany, currently studying Computer Science at HSBI.
 
-<br />
+My main focus is on building practical software with clean user interfaces, structured backend systems and meaningful data.  
+I mostly work with modern web technologies, .NET backends and dashboard/data-driven applications.
 
-# 
+I'm currently working on my bachelor thesis, where I build a production dashboard for industrial machine data using C#, ASP.NET Core, Entity Framework Core, SignalR and Avalonia.
 
+---
 
-## 📌 Pinned Repositories
+## About me
 
-- [**TicTacToe**](https://github.com/OliverIsBad/TIC-TAC-TOE) - Simple java CLI for TicTacToe
-- [**FlappyBirdClone**](https://github.com/OliverIsBad/FlappyBirdClone) - Flappy-Bird clone made with python
-- [**Senpai Website**](https://github.com/Team-A4-Softwareprojekt/Senpai-Frontend) - Learning Website 
+- Computer Science student at Hochschule Bielefeld
+- Expected graduation: June 2026
+- Focused on fullstack development, dashboards and clean UI
+- Practical experience with .NET, REST APIs, Entity Framework Core and frontend technologies
+- Interested in data visualization, backend architecture and developer tooling
+- Linux user and always trying to improve my workflow
 
-## 📫 Get in Touch
+---
 
-. . . 
+## Technologies & Tools
 
-## 📈 GitHub Stats
+<p>
+  <img alt="C#" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="React" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Vue" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img alt="TypeScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="HTML" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="PostgreSQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="SQLite" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</p>
 
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverIsBad&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## Current Projects
+
+### Developer Portfolio
+
+A personal developer portfolio built with React, TypeScript and CSS.
+
+Features include:
+
+- dark and light mode
+- English and German translations
+- interactive skills section
+- reusable project cards
+- responsive design
+
+### LearnDartsMath
+
+A fullstack darts training application focused on x01 score calculation and training sessions.
+
+Tech stack:
+
+- Vue 3
+- TypeScript
+- ASP.NET Core
+- PostgreSQL
+- JWT authentication concept
+
+## GitHub Stats
+
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/oliver-mann-12b465405/
+- GitHub: https://github.com/omann-dev
