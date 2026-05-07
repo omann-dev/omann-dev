@@ -43,6 +43,8 @@ I'm currently working on my bachelor thesis, where I build a production dashboar
 
 ### Developer Portfolio
 
+https://dev-portfolio-chi-six.vercel.app/
+
 A personal developer portfolio built with React, TypeScript and CSS.
 
 Features include:
