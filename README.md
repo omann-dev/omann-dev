@@ -71,9 +71,9 @@ Tech stack:
 
 ## GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
