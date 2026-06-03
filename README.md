@@ -2,7 +2,7 @@
 
 I'm a software developer from Germany, currently studying Computer Science at HSBI.
 
-My main focus is on building practical software with clean user interfaces, structured backend systems and meaningful data.  
+My main focus is on building practical software with clean user interfaces, structured backend systems and meaningful data.
 I mostly work with modern web technologies, .NET backends and dashboard/data-driven applications.
 
 I'm currently working on my bachelor thesis, where I build a production dashboard for industrial machine data using C#, ASP.NET Core, Entity Framework Core, SignalR and Avalonia.
@@ -11,12 +11,12 @@ I'm currently working on my bachelor thesis, where I build a production dashboar
 
 ## About me
 
-- Computer Science student at Hochschule Bielefeld
-- Expected graduation: June 2026
-- Focused on fullstack development, dashboards and clean UI
-- Practical experience with .NET, REST APIs, Entity Framework Core and frontend technologies
-- Interested in data visualization, backend architecture and developer tooling
-- Linux user and always trying to improve my workflow
+* Computer Science student at Hochschule Bielefeld
+* Expected graduation: June 2026
+* Focused on fullstack development, dashboards and clean UI
+* Practical experience with .NET, REST APIs, Entity Framework Core and frontend technologies
+* Interested in data visualization, backend architecture and developer tooling
+* Linux user and always trying to improve my workflow
 
 ---
 
@@ -43,17 +43,17 @@ I'm currently working on my bachelor thesis, where I build a production dashboar
 
 ### Developer Portfolio
 
-https://dev-portfolio-chi-six.vercel.app/
+[Visit Portfolio](https://dev-portfolio-chi-six.vercel.app/)
 
 A personal developer portfolio built with React, TypeScript and CSS.
 
 Features include:
 
-- dark and light mode
-- English and German translations
-- interactive skills section
-- reusable project cards
-- responsive design
+* Dark and light mode
+* English and German translations
+* Interactive skills section
+* Reusable project cards
+* Responsive design
 
 ### LearnDartsMath
 
@@ -61,21 +61,23 @@ A fullstack darts training application focused on x01 score calculation and trai
 
 Tech stack:
 
-- Vue 3
-- TypeScript
-- ASP.NET Core
-- PostgreSQL
-- JWT authentication concept
+* Vue 3
+* TypeScript
+* ASP.NET Core
+* PostgreSQL
+* JWT authentication concept
+
+---
 
 ## GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/oliver-mann-12b465405/
-- GitHub: https://github.com/omann-dev
+* LinkedIn: [Oliver Mann](https://www.linkedin.com/in/oliver-mann-12b465405/)
+* GitHub: [omann-dev](https://github.com/omann-dev)
