@@ -69,11 +69,9 @@ Tech stack:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=omann-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omann-dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=omann-dev&theme=tokyonight&hide_border=true)
 
 ---
 
