@@ -71,7 +71,7 @@ Tech stack:
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omann-dev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omann-dev&theme=tokyonight&hide_border=true)
 
 ---
 
