@@ -5,8 +5,6 @@ I'm a software developer from Germany, currently studying Computer Science at HS
 My main focus is on building practical software with clean user interfaces, structured backend systems and meaningful data.
 I mostly work with modern web technologies, .NET backends and dashboard/data-driven applications.
 
-I'm currently working on my bachelor thesis, where I build a production dashboard for industrial machine data using C#, ASP.NET Core, Entity Framework Core, SignalR and Avalonia.
-
 ---
 
 ## About me
