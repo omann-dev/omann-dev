@@ -1,6 +1,6 @@
 # Hi, I'm Oliver
 
-I'm a software developer from Germany, currently studying Computer Science at HSBI.
+I'm a software developer from Germany, 
 
 My main focus is on building practical software with clean user interfaces, structured backend systems and meaningful data.
 I mostly work with modern web technologies, .NET backends and dashboard/data-driven applications.
@@ -9,8 +9,8 @@ I mostly work with modern web technologies, .NET backends and dashboard/data-dri
 
 ## About me
 
-* Computer Science student at Hochschule Bielefeld
-* Expected graduation: June 2026
+* Ex Computer Science student at Hochschule Bielefeld
+* Graduated: June 2026
 * Focused on fullstack development, dashboards and clean UI
 * Practical experience with .NET, REST APIs, Entity Framework Core and frontend technologies
 * Interested in data visualization, backend architecture and developer tooling
