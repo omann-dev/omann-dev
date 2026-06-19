@@ -8,7 +8,7 @@ I mostly work with modern web technologies, .NET backends and dashboard/data-dri
 ---
 
 ## About me
-
+* Bachelor of Science 
 * Ex Computer Science student at Hochschule Bielefeld
 * Graduated: June 2026
 * Focused on fullstack development, dashboards and clean UI
